@@ -1,11 +1,11 @@
 # TechNews-Project
 
-![Alt text](<1-Little Lemon Chicago y 14 páginas más - Personal_ Microsoft​ Edge 26_06_2023 07_59_00 p. m..png>)
+![Alt text](1-Tech-News-Project.png)
 
-![Alt text](<2-Little Lemon Chicago y 14 páginas más - Personal_ Microsoft​ Edge 26_06_2023 07_59_10 p. m..png>)
+![Alt text](2-Tech-News-Project.png)
 
-![Alt text](<3-Little Lemon Chicago y 14 páginas más - Personal_ Microsoft​ Edge 26_06_2023 07_59_18 p. m..png>)
+![Alt text](3-Tech-News-Project.png)
 
-![Alt text](<4-Little Lemon Chicago y 14 páginas más - Personal_ Microsoft​ Edge 26_06_2023 07_59_33 p. m..png>)
+![Alt text](4-Tech-News-Project.png)
 
-![Alt text](<5-Little Lemon Chicago y 14 páginas más - Personal_ Microsoft​ Edge 26_06_2023 07_59_41 p. m..png>)
+![Alt text](5-Tech-News-Project.png)
